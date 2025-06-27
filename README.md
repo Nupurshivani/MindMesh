@@ -186,7 +186,7 @@ MindMesh follows a modern microservices architecture:
 #### Clone the repository
 
 ```bash
-git clone https://github.com/btwshivam/MindMesh.git
+git clone https://github.com/Nupurshivani/MindMesh.git
 cd MindMesh
 ```
 
