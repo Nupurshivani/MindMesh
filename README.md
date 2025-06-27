@@ -348,5 +348,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
   <img src="frontend/public/MindMesh.png" alt="MindMesh Logo" width="60">
-  <p>Built with ❤️ by Shivam</p>
+  <p>Built with ❤️ by Nupur Shivani </p>
 </div>
